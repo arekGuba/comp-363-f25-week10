@@ -1,4 +1,4 @@
-# Week 08: Discrete Event Simulator
+# Week 10: Kahn v. the Stack!
 
 The assignment can be found in the Jupyter notebook named [assignment.ipynb](./assignment.ipynb).
 
